@@ -1,4 +1,4 @@
-Js
+JS
 ==
 
-Esta pasta é destinada o códigos Js criados pela staff, que não desejamos que sejam vistos por enquanto.
+Esta pasta é destinada á códigos JS criados pela staff.
